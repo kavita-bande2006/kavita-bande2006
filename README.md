@@ -48,28 +48,20 @@ Aspiring Software Engineer | Java Developer | MERN Stack Developer
 
 ---
 
----
 
-# 📊 GitHub Stats
+## 📊 GitHub Stats
 
 <p align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=kavita-bande2006&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
-
-<img width="49%" src="https://streak-stats.demolab.com?user=kavita-bande2006&theme=tokyonight&hide_border=true"/>
-
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=kavita-bande2006&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kavita-bande2006&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 <p align="center">
-
-<img width="70%" src="https://github-readme-activity-graph.vercel.app/graph?username=kavita-bande2006&theme=tokyo-night&hide_border=true"/>
-
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kavita-bande2006&theme=tokyonight&hide_border=true"/>
 </p>
 
 <p align="center">
-
-<img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kavita-bande2006&layout=compact&theme=tokyonight&hide_border=true"/>
-
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kavita-bande2006&theme=tokyo-night&hide_border=true"/>
 </p>
 
 ---
