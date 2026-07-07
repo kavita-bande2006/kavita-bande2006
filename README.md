@@ -106,11 +106,7 @@ An Airbnb-inspired booking platform with authentication, Cloudinary image upload
 
 <p align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kavita-bande2006/kavita-bande2006/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kavita-bande2006/kavita-bande2006/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution snake" src="https://raw.githubusercontent.com/kavita-bande2006/kavita-bande2006/output/github-contribution-grid-snake.svg">
-</picture>
+<img src="https://github.com/kavita-bande2006/kavita-bande2006/blob/output/github-contribution-grid-snake.svg?raw=true" alt="Snake animation" />
 
 </p>
 
