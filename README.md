@@ -13,10 +13,6 @@ Aspiring Software Engineer  | MERN Stack Developer
 </p>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=22&duration=3000&pause=1000&color=4F8CFF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;MERN+Stack+Developer;Open+Source+Contributor;Always+Learning+New+Things" />
-</p>
-
-<p align="center">
 <a href="https://github.com/kavita-bande2006">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
