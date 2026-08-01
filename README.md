@@ -2,6 +2,7 @@
 
 <h3 align="center">
 Aspiring Software Engineer  | MERN Stack Developer
+  ![Profile Views](https://komarev.com/ghpvc/?username=kavita-bande2006&color=0e75b6&style=flat&label=Profile+Views)
 </h3>
 
 <p align="center">
