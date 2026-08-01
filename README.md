@@ -38,6 +38,10 @@ Aspiring Software Engineer  | MERN Stack Developer
 
 ---
 
+# Portfolio
+
+🔗 **Live:** [kavita-bande.vercel.app](https://kavita-bande.vercel.app/)
+
 # 💻 Tech Stack
 
 <p align="center">
