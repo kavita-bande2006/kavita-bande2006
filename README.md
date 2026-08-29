@@ -34,11 +34,11 @@ Aspiring Software Engineer  | MERN Stack Developer
 
 💻 Passionate about Full Stack Development and Backend Engineering
 
-☕ Solved **331+ DSA Problems** in Java
+☕ Solved **451+ DSA Problems** in Java
 
 🌱 Currently exploring **MERN Stack** and improving problem-solving skills
 
-🌟 GSSoC Open Source Contributor with **15+ Pull Requests merged**
+🌟 GSSoC Open Source Contributor with **20+ Pull Requests merged**
 
 ---
 
@@ -97,7 +97,7 @@ An Airbnb-inspired booking platform with authentication, Cloudinary image upload
 
 ✅ GirlScript Summer of Code Contributor
 
-✅ 15+ Pull Requests Merged
+✅ 20+ Pull Requests Merged
 
 ✅ Contributions across 3 repositories
 
@@ -105,7 +105,7 @@ An Airbnb-inspired booking platform with authentication, Cloudinary image upload
 
 # 🧩 LeetCode
 
-🏆 **331+ Problems Solved in Java**
+🏆 **450+ Problems Solved in Java**
 
 <a href="https://leetcode.com/u/kavita_bande/">
 <img src="https://img.shields.io/badge/View%20LeetCode-orange?style=for-the-badge&logo=leetcode"/>
