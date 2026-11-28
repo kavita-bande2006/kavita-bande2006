@@ -59,20 +59,28 @@ Aspiring Software Engineer  | MERN Stack Developer
 ---
 
 
+
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=kavita-bande2006&show_icons=true&theme=tokyonight&hide_border=true"/>
-  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=kavita-bande2006&layout=compact&theme=tokyonight&hide_border=true"/>
+  <img
+    height="170"
+    src="https://streak-stats.demolab.com?user=kavita-bande2006&theme=tokyonight&hide_border=true"
+    alt="GitHub Streak Stats"
+  />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=kavita-bande2006&theme=tokyonight&hide_border=true"/>
+  <img
+    src="https://img.shields.io/github/followers/kavita-bande2006?style=for-the-badge&color=4F8CFF&label=Followers"
+    alt="GitHub Followers"
+  />
+  <img
+    src="https://img.shields.io/github/repos/kavita-bande2006?style=for-the-badge&color=8957e5&label=Repositories"
+    alt="GitHub Repositories"
+  />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kavita-bande2006&theme=tokyo-night&hide_border=true"/>
-</p>
 
 
 ---
