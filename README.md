@@ -1,139 +1,93 @@
-<h1 align="center">Hi 👋, I'm Kavita Bande</h1>
+ <h1 align="center">Hey, I'm Kavita 👋</h1>
 
-<h3 align="center">
-Aspiring Software Engineer  | MERN Stack Developer
-  
-</h3>
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=22&duration=3000&pause=1000&color=4F8CFF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;MERN+Stack+Developer;Open+Source+Contributor;Always+Learning+New+Things" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=18&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Aspiring+Software+Engineer;MERN+Stack+Developer;Backend+%26+Full+Stack+Enthusiast;Building+Things+That+Solve+Problems" />
 </p>
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=kavita-bande2006&color=4F8CFF&style=flat&label=Profile+Views" />
+  <a href="https://kavita-bande.vercel.app/">Portfolio</a> &nbsp;·&nbsp;
+  <a href="https://www.linkedin.com/in/kavita-bande-983a5836a/">LinkedIn</a> &nbsp;·&nbsp;
+  <a href="https://leetcode.com/u/kavita_bande/">LeetCode</a> &nbsp;·&nbsp;
+  <a href="https://github.com/kavita-bande2006">GitHub</a>
 </p>
 
 <p align="center">
-<a href="https://github.com/kavita-bande2006">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="https://www.linkedin.com/in/kavita-bande-983a5836a/">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://leetcode.com/u/kavita_bande/">
-<img src="https://img.shields.io/badge/LeetCode-F89F1B?style=for-the-badge&logo=leetcode&logoColor=white"/>
-</a>
+  <img src="https://komarev.com/ghpvc/?username=kavita-bande2006&style=flat&color=blue&label=PROFILE+VIEWS" />
 </p>
 
----
+<h3>01 / About Me</h3>
 
-# 👩‍💻 About Me
+```yaml
+name: Kavita Bande
+education: B.Tech Undergraduate @ NIT Raipur
+role: Aspiring Software Engineer
+focus: Full Stack Development & Backend Engineering
+languages: Java, JavaScript
+currently_learning: MERN Stack
+```
 
-🎓 B.Tech Undergraduate at National Institute of Technology Raipur
+I enjoy turning ideas into functional applications, understanding how systems work behind the scenes, and solving problems through code.
 
-💻 Passionate about Full Stack Development and Backend Engineering
+<h3>02 / What I Build</h3>
 
-☕ Solved **451+ DSA Problems** in Java
+- Full-stack web applications with the MERN stack
+- Backend systems, REST APIs and authentication
+- Real-time applications using WebRTC and Socket.IO
+- Responsive and interactive user interfaces
 
-🌱 Currently exploring **MERN Stack** and improving problem-solving skills
-
-🌟 GSSoC Open Source Contributor with **20+ Pull Requests merged**
-
----
-
-# Portfolio
-
-🔗 **Live:** [kavita-bande.vercel.app](https://kavita-bande.vercel.app/)
-
----
-
-# 💻 Tech Stack
+<h3>03 / Tech Arsenal</h3>
 
 <p align="center">
-
-<img src="https://skillicons.dev/icons?i=java,js,react,nodejs,express,mongodb,html,css,git,github,vscode"/>
-
+  <img src="https://skillicons.dev/icons?i=java,js,react,nodejs,express,mongodb,html,css,git,github,vscode&theme=dark" />
 </p>
 
----
+<h3>04 / Selected Projects</h3>
 
+**🎥 MeetSync** · Real-time Communication
 
+A video conferencing application with real-time chat, audio/video calling and screen sharing using WebRTC and Socket.IO.
 
+`React` `Node.js` `Express` `MongoDB` `WebRTC`
 
-## 📊 GitHub Stats
+**🏡 WonderLust** · Full Stack Web Development
+
+An Airbnb-inspired platform featuring user authentication, image uploads, location-based maps and listing management.
+
+`Node.js` `Express` `MongoDB` `Cloudinary` `Leaflet`
+
+<h3>05 / Problem Solving</h3>
 
 <p align="center">
-  <img
-    src="https://streak-stats.demolab.com?user=kavita-bande2006&theme=tokyonight&hide_border=true"
-    alt="GitHub Streak Stats"
-    height="180"
-  />
+  <img src="https://img.shields.io/badge/450%2B-DSA%20Problems%20Solved-blue?style=for-the-badge&logo=leetcode&logoColor=white" />
+  <img src="https://img.shields.io/badge/Language-Java-orange?style=for-the-badge&logo=openjdk&logoColor=white" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/github/followers/kavita-bande2006?style=for-the-badge&color=4F8CFF&label=Followers" alt="GitHub Followers"/>
+  <a href="https://leetcode.com/u/kavita_bande/">Explore my LeetCode profile →</a>
+</p>
+
+<h3>06 / Open Source</h3>
+
+- GirlScript Summer of Code Contributor
+- 20+ Pull Requests Merged
+- Contributions across 3 repositories
+
+<h3>07 / Developer Activity</h3>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=kavita-bande2006&theme=tokyonight&hide_border=true" height="180" />
+</p>
+
+<h3>08 / Contribution Journey</h3>
+
+<p align="center">
+  <img src="https://github.com/kavita-bande2006/kavita-bande2006/blob/output/github-contribution-grid-snake.svg?raw=true" alt="Contribution Snake" />
 </p>
 
 <p align="center">
-  <a href="https://github.com/kavita-bande2006">
-    Visit My GitHub Profile
-  </a>
+  <i>Building. Breaking. Learning. Improving. Repeating.</i>
 </p>
 
-
-
-
----
-
-# 🚀 Featured Projects
-
-### 🎥 MeetSync
-A full-stack video conferencing platform built using **MERN** and **WebRTC**.
-
-**Tech:** React • Node.js • Express • MongoDB • WebRTC
-
----
-
-### 🏡 WonderLust
-An Airbnb-inspired booking platform with authentication, Cloudinary image uploads and interactive maps.
-
-**Tech:** Node.js • Express • MongoDB • Cloudinary
-
----
-
-# 🌟 Open Source
-
-✅ GirlScript Summer of Code Contributor
-
-✅ 20+ Pull Requests Merged
-
-✅ Contributions across 3 repositories
-
----
-
-# 🧩 LeetCode
-
-🏆 **450+ Problems Solved in Java**
-
-<a href="https://leetcode.com/u/kavita_bande/">
-<img src="https://img.shields.io/badge/View%20LeetCode-orange?style=for-the-badge&logo=leetcode"/>
-</a>
-
----
-
-# 🐍 Contribution Snake
-
 <p align="center">
-
-<img src="https://github.com/kavita-bande2006/kavita-bande2006/blob/output/github-contribution-grid-snake.svg?raw=true" alt="Snake animation" />
-
-</p>
-
----
-
-<p align="center">
-
-⭐ <b>Thanks for visiting my profile!</b> ⭐
-
+  ⭐ Thanks for stopping by!
 </p>
