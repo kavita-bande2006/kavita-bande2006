@@ -60,26 +60,27 @@ Aspiring Software Engineer  | MERN Stack Developer
 
 
 
+
 ## 📊 GitHub Stats
 
 <p align="center">
   <img
-    height="170"
     src="https://streak-stats.demolab.com?user=kavita-bande2006&theme=tokyonight&hide_border=true"
     alt="GitHub Streak Stats"
+    height="180"
   />
 </p>
 
 <p align="center">
-  <img
-    src="https://img.shields.io/github/followers/kavita-bande2006?style=for-the-badge&color=4F8CFF&label=Followers"
-    alt="GitHub Followers"
-  />
-  <img
-    src="https://img.shields.io/github/repos/kavita-bande2006?style=for-the-badge&color=8957e5&label=Repositories"
-    alt="GitHub Repositories"
-  />
+  <img src="https://img.shields.io/github/followers/kavita-bande2006?style=for-the-badge&color=4F8CFF&label=Followers" alt="GitHub Followers"/>
 </p>
+
+<p align="center">
+  <a href="https://github.com/kavita-bande2006">
+    Visit My GitHub Profile
+  </a>
+</p>
+
 
 
 
